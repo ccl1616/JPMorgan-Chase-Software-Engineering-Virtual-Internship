@@ -10,6 +10,8 @@ The specification can be found in [document/](https://github.com/ccl1616/JPMorga
 - make continuously updated graph of stock prices
 ### Task 3. Display data visually for traders
 - make this graph more useful to traders by making it track the ratio between two stocks over time and NOT the two stocks’ top_ask_price over time
+- ![image](https://github.com/ccl1616/JPMorgan-Chase-Software-Engineering-Virtual-Internship/assets/57265339/46ef56f9-68b0-48ab-be2f-ad0bd74d496a)
+
 ### Related skills
 - Python
 - React
